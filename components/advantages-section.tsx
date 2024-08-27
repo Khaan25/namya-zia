@@ -33,7 +33,7 @@ export default function AdvantageSection() {
           </div>
           <div className="bg-[#D9D9D914] group-hover:bg-[#D9D9D924] transition-all duration-150 absolute top-[158px] left-[55px] border border-dashed border-[#FFFFFF54] w-[296px] h-[72px] rounded-[5px]" />
 
-          <Image quality={100} className="w-[320px] -translate-y-6 h-auto ml-16" src="/code.png" alt="Tech-forward approach to financial operations" width={1000} height={1000} />
+          <Image quality={100} className="w-[320px] -translate-y-6 h-auto ml-16" src="/nodejs-code.png" alt="Tech-forward approach to financial operations" width={1000} height={1000} />
         </Card>
 
         <Card title="Deep understanding of both traditional and crypto markets" className="group">
